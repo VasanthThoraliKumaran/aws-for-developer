@@ -1,6 +1,6 @@
 # AWS
 - Amazon Web Services (AWS) is a leading cloud provider.
-- Thry provide servers and services that we an use on demand and scale it easily.
+- It provides servers and services that we can use on demand and scale it easily.
 
 ## AWS Cloud - Usecases
 - Aws allows us to build sophisticated and scalable applications.
